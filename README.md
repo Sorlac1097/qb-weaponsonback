@@ -1,6 +1,8 @@
 # qb-weaponsonback
 Simple weapons on back script
 
+Is a simple drag an drop resource, no changes need to be maded to any other script
+
 #Know Bugs
 
 - Need to syncronize the give/delete weapon with the weapon draw aniamtion
