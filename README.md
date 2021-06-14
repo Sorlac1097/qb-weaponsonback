@@ -3,15 +3,16 @@ Simple weapons on back script
 
 #Know Bugs
 
-Need to syncronize the give/delete weapon with the weapon draw aniamtion
+- Need to syncronize the give/delete weapon with the weapon draw aniamtion
 
+#Showcase Video:
 
-Showcase Video:
-https://streamable.com/b4vrbz
+- https://streamable.com/b4vrbz
 
-Installation
+#Installation
 
-Download the script and put it in the [qb] directory.
+- Download the script and put it in the [qb] directory.
 
-Add the following code to your server.cfg/resouces.cfg
-ensure qb-weaponsonback
+- Add the following code to your server.cfg/resouces.cfg
+
+	ensure qb-weaponsonback
